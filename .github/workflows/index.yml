@@ -26,4 +26,4 @@ jobs:
         env:
           TURSO_DB_URL: ${{ secrets.TURSO_DB_URL }}
           TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
-        run: pnpm index
+        run: pnpm dlx tsx scripts/index-content.ts
