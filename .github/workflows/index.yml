@@ -1,0 +1,27 @@
+name: Index Content to Turso
+on:
+  push:
+    branches:
+      - main  # O el nombre de tu rama principal
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+      
+      - name: Install dependencies
+        run: pnpm install
+      
+      - name: Run indexer
+        env:
+          TURSO_DB_URL: ${{ secrets.TURSO_DB_URL }}
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
+        run: pnpm index
