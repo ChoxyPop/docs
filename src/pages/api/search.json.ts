@@ -3,8 +3,8 @@
  * Uses libsql-search for semantic search
  */
 
-import { search } from '@logan/libsql-search';
-import { logger } from '@logan/logger';
+import { search } from '@jsr/logan__libsql-search';
+const logger = console;
 import type { APIRoute } from 'astro';
 import { env } from '@/lib/env';
 import { getTursoClient } from '@/lib/turso';

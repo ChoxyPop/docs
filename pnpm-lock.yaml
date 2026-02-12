@@ -23,18 +23,12 @@ importers:
       '@astrojs/vercel':
         specifier: ^9.0.4
         version: 9.0.4(astro@5.17.2(@types/node@25.2.3)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.57.1)(tsx@4.21.0)(typescript@5.9.3))(react@19.2.4)(rollup@4.57.1)
-      '@jsr/logan__logger':
-        specifier: ^1.1.14
-        version: 1.1.14
+      '@jsr/logan__libsql-search':
+        specifier: ^0.1.3
+        version: 0.1.3
       '@libsql/client':
         specifier: ^0.17.0
         version: 0.17.0
-      '@logan/libsql-search':
-        specifier: jsr:^0.1.3
-        version: '@jsr/logan__libsql-search@0.1.3'
-      '@logan/logger':
-        specifier: jsr:^1.1.12
-        version: '@jsr/logan__logger@1.1.14'
       '@radix-ui/react-dialog':
         specifier: ^1.1.15
         version: 1.1.15(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -799,9 +793,6 @@ packages:
 
   '@jsr/logan__libsql-search@0.1.3':
     resolution: {integrity: sha512-k2r+b3dmqitE3bgFEDeSvq4vL8gRqELwJ11INdcnN5X/oc0GSDaXs3YuxpkDhK5nmVU0Z/00HuJ9xA5DDZOVkQ==, tarball: https://npm.jsr.io/~/11/@jsr/logan__libsql-search/0.1.3.tgz}
-
-  '@jsr/logan__logger@1.1.14':
-    resolution: {integrity: sha512-9rfBkV7r+5rVCV3Jn3cPkA8bFVICJgzQrquljYgv1K0JVNsuKkxGzjmGUwoZ9cr8CFjspweiZ/4ObTAEKEUgEA==, tarball: https://npm.jsr.io/~/11/@jsr/logan__logger/1.1.14.tgz}
 
   '@libsql/client@0.15.15':
     resolution: {integrity: sha512-twC0hQxPNHPKfeOv3sNT6u2pturQjLcI+CnpTM0SjRpocEGgfiZ7DWKXLNnsothjyJmDqEsBQJ5ztq9Wlu470w==}
@@ -4166,8 +4157,6 @@ snapshots:
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
-
-  '@jsr/logan__logger@1.1.14': {}
 
   '@libsql/client@0.15.15':
     dependencies:

@@ -10,7 +10,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
     ssr: {
-      noExternal: ['@jsr/logan__logger', 'winston']
+      noExternal: ['@jsr/logan__libsql-search', 'winston', 'libsql']
     },
     resolve: {
       alias: {
