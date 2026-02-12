@@ -2,7 +2,7 @@ name: Index Content to Turso
 on:
   push:
     branches:
-      - main  # Asegúrate de que este sea el nombre de tu rama
+      - main
       - master
 
 jobs:
@@ -10,19 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
       - uses: pnpm/action-setup@v2
         with:
-          version: 8
+          version: 9 # Actualizamos a la versión 9 para mejor soporte JSR
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22 # Node 22 es más estable para estas librerías nuevas
           cache: 'pnpm'
-
-      # ESTO ES LO QUE FALTABA: Configura el soporte para JSR
-      - name: Setup JSR
-        run: pnpm dlx jsr add @logan/libsql-search --setup
 
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
