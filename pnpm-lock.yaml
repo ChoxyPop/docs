@@ -23,6 +23,9 @@ importers:
       '@astrojs/vercel':
         specifier: ^9.0.4
         version: 9.0.4(astro@5.17.2(@types/node@25.2.3)(@vercel/functions@2.2.13)(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.57.1)(tsx@4.21.0)(typescript@5.9.3))(react@19.2.4)(rollup@4.57.1)
+      '@jsr/logan__logger':
+        specifier: ^1.1.14
+        version: 1.1.14
       '@libsql/client':
         specifier: ^0.17.0
         version: 0.17.0
