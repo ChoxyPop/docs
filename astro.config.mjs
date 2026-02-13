@@ -8,6 +8,13 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'ChoxyDocs',
+      defaultLocale: 'es',
+      locales: {
+        root: {
+          label: 'Español',
+          lang: 'es',
+        },
+      },
 			social: [{ icon: 'instagram', label: 'Instagram', href: 'https://instagram.com/choxypop' }],
 			sidebar: [
 				{
