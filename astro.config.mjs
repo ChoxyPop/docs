@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://choxypop.github.io/docs',
+  site: 'https://docs.choxypop.com/',
 	integrations: [
 		starlight({
 			title: 'ChoxyDocs',
