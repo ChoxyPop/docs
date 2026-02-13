@@ -16,7 +16,8 @@ export default defineConfig({
           lang: 'es',
         },
       },
-      social: [{ icon: 'instagram', label: 'Instagram', href: 'https://instagram.com/choxypop' }],
+      social: [{ icon: 'twitter', label: 'Twitter', href: 'https://x.com/choxypop' },
+        { icon: 'instagram', label: 'Instagram', href: 'https://instagram.com/choxypop' }],
       head: [
         {
           tag: 'meta',
@@ -68,8 +69,8 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Contacto y Redes',
-          autogenerate: { directory: 'contacto' },
+          label: 'Ayuda',
+          autogenerate: { directory: 'ayuda' },
         },
       ],
     }),
