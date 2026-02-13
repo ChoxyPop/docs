@@ -16,17 +16,17 @@ A diferencia de nuestras redes sociales, que están enfocadas en el entretenimie
 
 Para que encuentres lo que buscas rápidamente, hemos dividido la documentación en tres grandes bloques:
 
-### 1. El Equipo y la Visión
-Si quieres saber quién es Choxy, conocer a los artistas (Mafiul8 y AstarDev) o entender por qué este proyecto es sin fines de lucro, dirígete a la sección **Equipo y Visión**. También encontrarás ahí cómo podrías llegar a formar parte del equipo.
+### 1. El Equipo
+Si quieres saber quién es Choxy, conocer a los artistas (Mafiul8 y AstarDev) o entender por qué este proyecto es sin fines de lucro, dirígete a la sección **Equipo**. También encontrarás ahí cómo podrías llegar a formar parte del equipo.
 
-### 2. Seguridad y Reglas
+### 2. Comunidad y Reglas
 Este es el apartado más importante para los miembros de la comunidad.
 * **Sobre la Comunidad:** Nuestra postura contra la sexualización y nuestra filosofía de apoyo.
 * **Reglas de Convivencia:** El reglamento detallado (términos y condiciones) para WhatsApp y Discord.
-* **Copyright:** Cómo protegemos nuestro contenido y qué acciones tomamos ante el plagio.
+* **Seguridad y auditoria:** Que hacer ante problemas con un administrador o moderador.
 
-### 3. Contacto y Verificación
-Para evitar cuentas falsas, consulta siempre la sección de **Redes Oficiales**. Allí encontrarás el enlace maestro a nuestro portal de contactos y medios de comunicación directa.
+### 3. Ayuda
+Para evitar cuentas falsas, consulta siempre la sección de **Ayuda**. Allí encontrarás el enlace maestro a nuestro portal de contactos y medios de comunicación directa, y respuestas a preguntas frecuentes.
 
 ## ¿Cómo buscar información?
 
