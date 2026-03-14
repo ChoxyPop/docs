@@ -38,7 +38,7 @@ export default defineConfig({
             "description": "Documentación oficial del proyecto ChoxyPop.",
             "publisher": {
               "@type": "Organization",
-              "name": "ChoxyPop"
+              "name": "ChoxyPop Team"
             }
           })
         },
