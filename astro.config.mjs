@@ -64,7 +64,7 @@ export default defineConfig({
           label: 'Comunidad y Reglas',
           items: [
             { label: 'Sobre la Comunidad', link: '/comunidad/detalles' },
-            { label: 'Reglas de Convivencia', link: '/comunidad/reglas' },
+            { label: 'Reglas de WhatsApp', link: '/comunidad/whatsapp' },
             { label: 'Seguridad y Auditoría', link: '/comunidad/seguridad' },
           ],
         },
