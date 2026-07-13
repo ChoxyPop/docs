@@ -11,7 +11,7 @@ Todo el contenido publicado en las plataformas oficiales de ChoxyPop, incluyendo
 * El diseño del personaje **Choxy**.
 * El nombre y la marca **ChoxyPop**.
 * El lore, personajes y textos de **"El Proyecto Delta"**.
-* Ilustraciones de Mafiul8 y renders de AstarDev.
+* Renders de AstarDev.
 
 **Es propiedad exclusiva de ChoxyPop.** No otorgamos permisos para el uso de esta propiedad con fines lucrativos o comerciales por parte de terceros.
 
@@ -28,7 +28,7 @@ Monitoreamos activamente las redes sociales y proveedores de servicios. Si detec
 2. **Suplantando la identidad** de Choxy o miembros del equipo.
 3. **Utilizando nuestro contenido** para poner en riesgo a seguidores o promover conductas que violan nuestras reglas (como la sexualización).
 
-**Iniciaremos los procesos de denuncia y demanda correspondientes.** Estamos preparados para defender la integridad de ChoxyPop y no dudaremos en tomar acciones legales si el caso lo requiere. No buscamos ser restrictivos con los fans (el fanart es bienvenido siempre que no sea sexualizado), sino detener a quienes actúan de mala fe.
+**Iniciaremos los procesos de denuncia y demanda correspondientes.** Estamos preparados para defender la integridad de ChoxyPop y no dudaremos en tomar acciones legales si el caso lo requiere. No buscamos ser restrictivos con los fans (el fanart es bienvenido), sino detener a quienes actúan de mala fe.
 
 ## Fanarts y Uso Permitido
 

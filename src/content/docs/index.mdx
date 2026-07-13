@@ -1,17 +1,53 @@
 ---
 title: Bienvenido a ChoxyDocs
-description: Documentación oficial del proyecto ChoxyPop. Encuentra nuestras reglas de convivencia, información sobre el equipo creativo, políticas de seguridad, guias y mucho más.
+description: Aqui encontraras guias y reglas sobre nosotros o nuestras comunidades y sitios.
 template: splash
 hero:
-  tagline: Aqui encontraras guias, reglas y demás sobre ChoxyPop Teams y cualquiera de nuestros sitios.
-  image:
-    file: ../../assets/choxy.png
+  layout: split-left
+  announcement:
+    text: ¡Unete a nuestro Realm de Minecraft!
+    link: /realm/detalles/
   actions:
-    - text: Guia Principal
-      link: /introduccion
+    - text: Guia principal
+      link: /introduccion/
       icon: right-arrow
-    - text: Más sobre nosotros
-      link: https://choxypop.com
-      icon: external
+    - text: Más sobrenosotros
+      link: https://choxypop.com/
       variant: minimal
 ---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+<div style="width: 70%; margin: 0 auto; padding: 0 2rem;">
+# Comunidad
+
+<CardGrid>
+  <LinkCard
+    title="Detalles"
+    href="/comunidad/detalles/"
+  >
+  </LinkCard>
+
+  <LinkCard
+    title="Reglas de WhatsApp"
+    href="/comunidad/whatsapp/"
+  >
+  </LinkCard>
+</CardGrid>
+
+# Minecraft Realm
+
+<CardGrid>
+  <LinkCard
+    title="Reglas"
+    href="/realm/reglas/"
+  >
+  </LinkCard>
+
+  <LinkCard
+    title="Guía del Realm"
+    href="/realm/guia/"
+  >
+  </LinkCard>
+</CardGrid>
+</div>

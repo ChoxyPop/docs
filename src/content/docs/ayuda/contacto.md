@@ -1,7 +1,7 @@
 ---
 title: Canales y Redes Oficiales
 description: Directorio oficial de ChoxyPop para evitar suplantaciones y cuentas falsas.
-lastUpdated: 2026-02-13
+lastUpdated: 2026-07-12
 ---
 
 Para garantizar tu seguridad y asegurarte de que estás interactuando con las cuentas reales de **ChoxyPop**, utiliza siempre este directorio. Si una cuenta no aparece listada aquí o en nuestro portal de enlaces, **no es oficial**.
@@ -22,7 +22,7 @@ Estas son las plataformas donde mantenemos una actividad constante y verificada:
 
 * **Instagram:** Nuestra red principal con mayor apoyo. Contamos con suscripción de Meta para mayor seguridad.
 * **X (Twitter):** Donde compartimos actualizaciones rápidas y arte.
-* **TikTok & Bluesky:** Canales secundarios para contenido de video y microblogging.
+* **TikTok & Mastodon:** Canales secundarios para contenido de video y microblogging.
 * **DeviantArt:** Nuestra base de auditoría legal y galería completa de contenido.
 
 *Nota: Las cuentas en Threads y Facebook están automatizadas y sirven principalmente como espejos de contenido.*
@@ -43,8 +43,8 @@ Para una respuesta más rápida o dudas sobre la comunidad:
 
 ## Comunidad y Reseñas
 
-* **Canal de WhatsApp:** [go.choxypop.com/wa](https://go.choxypop.com/wa) (Anuncios personales y novedades).
-* **Grupo de WhatsApp:** [go.choxypop.com/wagroup](https://go.choxypop.com/wagroup) (Interacción directa).
+* **Canal de WhatsApp:** [go.choxypop.com/whatsapp](https://go.choxypop.com/whatsapp) (Anuncios personales y novedades).
+* **Grupo de WhatsApp:** [go.choxypop.com/invite/whatsapp](https://go.choxypop.com/invite/whatsapp) (Interacción directa).
 * **Trustpilot & Google Business:** Puedes dejar tus reseñas sobre nuestra comunidad y servicios en los enlaces alojados en nuestro portal maestro.
 
 ---

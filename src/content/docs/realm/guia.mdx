@@ -1,0 +1,108 @@
+---
+title: Guía de Mods y Add-ons
+description: Aprende a usar las herramientas del Realm para proteger tus construcciones y aprovechar los mods.
+---
+
+import { Aside, Card, CardGrid } from '@astrojs/starlight/components';
+import menuPrincipal from '../../../assets/minecraft/menu-principal.png';
+import banderaCeleste from '../../../assets/minecraft/bandera-celeste.png';
+import candado from '../../../assets/minecraft/candado.png';
+import cuboCeleste from '../../../assets/minecraft/cubo-celeste.png';
+import ascensor from '../../../assets/minecraft/ascensor.png';
+import barraDeVida from '../../../assets/minecraft/barra-de-vida.png';
+
+El Realm cuenta con 4 Add-ons (mods) instalados para mejorar la experiencia de juego y, sobre todo, para ayudarte a proteger tu progreso. A continuación, tienes la guía detallada de cómo funciona cada uno.
+
+---
+
+## 1. Realm Management Tool (Esencial)
+
+Este es el mod más importante del servidor. Te otorgará una herramienta con forma de **portal del nether en miniatura** que sirve para gestionar tu seguridad, ver tu perfil y teletransportarte.
+
+<Aside type="tip" title="Cómo conseguirlo">
+Si lo pierdes o necesitas uno, su crafteo es extremadamente sencillo: solo coloca **un bloque de tierra** o **un bloque de piedra** en tu rejilla de crafteo de inventario.
+</Aside>
+
+Al interactuar con esta herramienta, se abrirá un menú con **4 botones principales**:
+
+<div style="display: flex; justify-content: center;">
+  <img src={menuPrincipal.src} alt="Menú Principal de la Herramienta" style="max-width: 300px; width: 100%;" />
+</div>
+
+### Botón 1: Manage Claim
+Desde aquí gestionas tus propiedades. Puedes configurar los permisos de tus terrenos reclamados: si otros jugadores pueden construir, si pueden destruir bloques, o si las explosiones de TNT les afectarán. También puedes eliminar reclamos antiguos para liberar espacio.
+
+* **¿Cómo se consiguen terrenos?** El servidor te otorga automáticamente **1 chunk cada 1 hora de juego aproximadamente**. Existe un límite máximo de chunks por jugador para evitar abusos, pero es lo suficientemente alto para armar una gran base.
+
+#### Ítems clave para reclamar y proteger:
+
+* **Bandera Celeste (Claim Chunk):** Este ítem sirve para marcar y reclamar el chunk en el que estás parado.
+<div style="display: flex; justify-content: center;">
+  <img src={banderaCeleste.src} alt="Crafteo de la bandera celeste" style="max-width: 300px; width: 100%;" />
+</div>
+
+* **El Candado:** Sirve para bloquear de forma segura cofres, puertas y trampillas. Solo debes equipar el candado y hacer clic derecho (o interactuar) sobre lo que quieras proteger.
+<div style="display: flex; justify-content: center;">
+  <img src={candado.src} alt="Crafteo del candado" style="max-width: 300px; width: 100%;" />
+</div>
+
+  <Aside type="danger" title="¡Atención con los cofres dobles!">
+  El candado **no funciona correctamente en cofres dobles**. Si bloqueas un cofre doble, solo se protegerá la mitad que tocaste; si alguien intenta abrirlo por el otro lado, podrá robarte. **Mantén tus cofres separados (cofres simples) si los vas a bloquear.**
+  </Aside>
+
+* **Cubo Celeste (Inspeccionar Chunk):** Te permite saber si un chunk ya tiene dueño y cuáles son sus límites exactos. 
+  * *Tip:* Para ver las líneas del límite del chunk, **haz clic derecho/interactúa mientras estás agachado (shift)** y mantente en esa posición.
+<div style="display: flex; justify-content: center;">
+  <img src={cuboCeleste.src} alt="Crafteo del cubo celeste" style="max-width: 300px; width: 100%;" />
+</div>
+
+* **Ascensor (Cofre con dos flechas):** Te permite crear un ascensor funcional en tu base. Solo colócalo sobre una pared. Necesitas obligatoriamente **dos de ellos alineados en las mismas coordenadas exactas** (solo variando la altura).
+  * *Nota:* Requiere un bloque debajo para pisar. Si notas que no funciona, colócale también un bloque justo arriba a modo de techo.
+<div style="display: flex; justify-content: center;">
+  <img src={ascensor.src} alt="Crafteo del ascensor" style="max-width: 300px; width: 100%;" />
+</div>
+
+### Botón 2: Profile
+Muestra tu información personal del servidor: cuántos chunks tienes reclamados actualmente, cuántos tienes disponibles para usar y estadísticas básicas.
+
+### Botón 3: Spawn
+Te teletransporta de forma directa y segura al punto de Spawn principal del Realm en cualquier momento.
+
+### Botón 4: Commands
+Al entrar en esta sección, encontrarás la opción de **Random Teleport**. Al presionarla, serás teletransportado a unas coordenadas completamente aleatorias en el mundo, ideal para buscar un lugar ideal donde empezar a construir lejos de todos.
+
+---
+
+## 2. Actions and Stuff
+
+Este popular mod mejora por completo las animaciones y las texturas de los personajes, bloques y entorno, haciendo que el juego se sienta mucho más vivo. Aunque no añade ítems crafteables tradicionales, incluye una mecánica oculta de decoración muy interesante usando el soporte para armaduras (Armor Stand).
+
+### Mecánica de Decoración:
+1. Coloca un soporte para armaduras.
+2. Ponle una etiqueta con el nombre **`§§`**.
+3. Dale un bloque u objeto en la mano. ¡El soporte se transformará en un mueble u objeto decorativo completamente nuevo! *(Por ejemplo, si le das una mesa de cartógrafo, se convertirá en un globo terráqueo)*.
+4. **Interacción:** Si te agachas (shift) y le haces clic, el objeto cambiará de posición o activará una animación (ej. el globo terráqueo empezará a girar).
+
+*Como no existe una lista oficial de combinaciones dentro del juego, te recomendamos buscar tutoriales en YouTube sobre "Actions and Stuff armor stand secrets" para ver todo lo que puedes crear.*
+
+---
+
+## 3. Health Bar
+
+Un mod visual simple y directo hecho por los mismos creadores de *Actions and Stuff*. Añade una barra con corazones flotantes sobre la cabeza de todas las entidades (jugadores, vacas, monstruos, etc.) para que puedas ver en tiempo real cuánta vida les queda.
+
+<div style="display: flex; justify-content: center;">
+  <img src={barraDeVida.src} alt="Muestra de la barra de vida" style="max-width: 300px; width: 100%;" />
+</div>
+
+---
+
+## 4. Better Structures
+
+Este mod transforma por completo la exploración del Overworld, el Nether y el End. Genera estructuras y mazmorras mucho más grandes, detalladas y visualmente increíbles. Ten cuidado, ya que algunas de estas estructuras contienen nuevos enemigos temáticos y jefes con mecánicas personalizadas.
+
+Al entrar por primera vez al Realm, **recibirás un libro en tu inventario** con todos los detalles de lo que añade este mod. 
+
+<Aside type="caution" title="Idioma del Libro">
+El libro informativo del mod viene detallado **únicamente en inglés**. Si tienes dudas con alguna estructura o jefe, puedes apoyarte en un traductor o preguntar a los demás miembros en el grupo.
+</Aside>

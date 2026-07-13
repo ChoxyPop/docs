@@ -11,7 +11,7 @@ No buscamos "empleados", sino **pilares fundamentales**. Para entrar al equipo e
 
 ### Roles Creativos (Artistas y Modeladores)
 Para mantener la esencia de ChoxyPop, somos exigentes con la consistencia visual:
-* **Artistas 2D:** Deben ser capaces de seguir fielmente el diseño de personaje establecido por Mafiul8 para mantener la coherencia en la marca.
+* **Artistas 2D:** Deben ser capaces de seguir fielmente el diseño de personaje para mantener la coherencia en la marca.
 * **Modeladores 3D:** Su trabajo suele ser una colaboración directa con AstarDev para asegurar que los modelos sean compatibles con los estándares del proyecto (Roblox/Blender).
 
 ### Otros Roles (Programación y Gestión)
@@ -33,6 +33,6 @@ A cambio del talento aportado, el equipo ofrece:
 
 Para mantener la seguridad del proyecto y evitar el uso indebido de la imagen de Choxy, nos regimos por las siguientes normas:
 
-* **Propiedad de la Marca:** El nombre "ChoxyPop", el diseño del personaje y el lore de "El Proyecto Delta" son propiedad exclusiva del proyecto.
+* **Propiedad de la Marca:** El nombre "ChoxyPop", el diseño del personaje y el lore de "Deltany" son propiedad exclusiva del proyecto.
 * **Auditoría Legal:** Utilizamos **DeviantArt** y registros en redes sociales como prueba de auditoría para proteger el contenido.
 * **Uso no autorizado:** Nos reservamos el derecho de denunciar o demandar a cualquier entidad o persona que utilice nuestra identidad o el trabajo de nuestros artistas con fines lucrativos o que pongan en riesgo a nuestra comunidad sin consentimiento previo.

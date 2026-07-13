@@ -1,7 +1,7 @@
 ---
 title: Seguridad y Auditoría
 description: Protocolos de transparencia y protección contra el abuso de poder dentro del ChoxyPop Team.
-lastUpdated: 2026-02-13
+lastUpdated: 2026-07-12
 ---
 
 La confianza de la comunidad es el activo más valioso de **ChoxyPop**. Para mantener un ambiente sano, no basta con tener reglas para los usuarios; también existen protocolos estrictos para quienes ostentan rangos de moderación o administración.
@@ -38,7 +38,7 @@ Para evitar filtraciones, todos los correos enviados a `info@choxypop.com` son g
 
 Si eres víctima de un administrador o detectas una conducta sospechosa en el equipo, no guardes silencio.
 
-* **Vía Directa:** Puedes contactarme a través de mi número de WhatsApp oficial (+54 249 406-0873) o por email.
+* **Vía Directa:** Puedes contactarme a través de mi número de WhatsApp oficial (+54 249 406-0873) o por email (info@choxypop.com).
 * **Pruebas:** Se recomienda adjuntar capturas de pantalla sin editar para agilizar la investigación.
 
 ---

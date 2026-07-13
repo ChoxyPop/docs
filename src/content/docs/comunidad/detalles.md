@@ -8,7 +8,7 @@ La comunidad de **ChoxyPop** no es solo un grupo de seguidores; es un espacio di
 ## El Propósito de la Comunidad
 
 Nuestra meta es construir un entorno donde todos se sientan bienvenidos, desde adolescentes hasta adultos. Queremos una comunidad activa que disfrute de:
-* **El Lore y las Teorías:** Debatir sobre "El Proyecto Delta" y el trasfondo de los personajes.
+* **El Lore y las Teorías:** Debatir sobre "Deltany" y el trasfondo de los personajes.
 * **El Arte:** Compartir fanarts (respetando las normas) y ver el trabajo del equipo.
 * **El Apoyo Mutuo:** Ser un lugar donde podamos compartir momentos, jugar partidas juntos y sentirnos como un grupo de amigos.
 

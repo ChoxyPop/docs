@@ -14,19 +14,22 @@ A diferencia de nuestras redes sociales, que están enfocadas en el entretenimie
 
 ## Orientación de Navegación
 
-Para que encuentres lo que buscas rápidamente, hemos dividido la documentación en tres grandes bloques:
+Para que encuentres lo que buscas rápidamente, hemos dividido la documentación en cuatro grandes bloques:
 
-### 1. El Equipo
-Si quieres saber quién es Choxy, conocer a los artistas (Mafiul8 y AstarDev) o entender por qué este proyecto es sin fines de lucro, dirígete a la sección **Equipo**. También encontrarás ahí cómo podrías llegar a formar parte del equipo.
-
-### 2. Comunidad y Reglas
+### 1. Comunidad y Reglas
 Este es el apartado más importante para los miembros de la comunidad.
 * **Sobre la Comunidad:** Nuestra postura contra la sexualización y nuestra filosofía de apoyo.
 * **Reglas de Convivencia:** El reglamento detallado (términos y condiciones) para WhatsApp y Discord.
 * **Seguridad y auditoria:** Que hacer ante problemas con un administrador o moderador.
 
+### 2. Minecraft Realm
+Si quieres unirte a nuestro server Realm de Minecraft Bedrock en esta sección tendras las reglas que deberas seguir y la guia de como usar los mods de este para evitar que te roben tus cosas por si acaso.
+
 ### 3. Ayuda
 Para evitar cuentas falsas, consulta siempre la sección de **Ayuda**. Allí encontrarás el enlace maestro a nuestro portal de contactos y medios de comunicación directa, y respuestas a preguntas frecuentes.
+
+### 4. El Equipo
+Si quieres saber quién es Choxy, conocer a los artistas (AstarDev) o entender por qué este proyecto es sin fines de lucro, dirígete a la sección **Equipo**. También encontrarás ahí cómo podrías llegar a formar parte del equipo.
 
 ## ¿Cómo buscar información?
 

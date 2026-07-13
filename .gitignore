@@ -19,12 +19,3 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
-
-# IDEs y Editores
-.vscode/
-.idea/
-
-# Archivos de caché y logs adicionales
-*.log
-.vercel
-.netlify
