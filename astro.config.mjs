@@ -6,11 +6,23 @@ import lucode from 'lucode-starlight';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://docs.choxypop.com/',
+  
+  redirects: {
+    '/comunidad': '/comunidad/detalles',
+    '/comunidad/': '/comunidad/detalles',
+    '/realm': '/realm/detalles',
+    '/realm/': '/realm/detalles',
+    '/ayuda': '/ayuda/contacto',
+    '/ayuda/': '/ayuda/contacto',
+    '/team': '/team/detalles',
+    '/team/': '/team/detalles',
+  },
+
   integrations: [
     starlight({
       title: 'ChoxyDocs',
       lastUpdated: true,
-	   plugins: [
+      plugins: [
         lucode({
           navLinks: [
             { label: 'Docs', link: '/introduccion/' },
