@@ -8,10 +8,10 @@ export default defineConfig({
   site: 'https://docs.choxypop.com/',
   
   redirects: {
-    '/comunidad': '/comunidad/detalles',
-    '/realm': '/realm/detalles',
-    '/ayuda': '/ayuda/contacto',
-    '/team': '/team/detalles',
+    '/comunidad/': '/comunidad/detalles',
+    '/realm/': '/realm/detalles',
+    '/ayuda/': '/ayuda/contacto',
+    '/team/': '/team/detalles',
   },
 
   integrations: [
