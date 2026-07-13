@@ -9,13 +9,9 @@ export default defineConfig({
   
   redirects: {
     '/comunidad': '/comunidad/detalles',
-    '/comunidad/': '/comunidad/detalles',
     '/realm': '/realm/detalles',
-    '/realm/': '/realm/detalles',
     '/ayuda': '/ayuda/contacto',
-    '/ayuda/': '/ayuda/contacto',
     '/team': '/team/detalles',
-    '/team/': '/team/detalles',
   },
 
   integrations: [
