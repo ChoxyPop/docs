@@ -9,9 +9,8 @@ import banderaCeleste from '../../../assets/minecraft/bandera-celeste.png';
 import candado from '../../../assets/minecraft/candado.png';
 import cuboCeleste from '../../../assets/minecraft/cubo-celeste.png';
 import ascensor from '../../../assets/minecraft/ascensor.png';
-import barraDeVida from '../../../assets/minecraft/barra-de-vida.png';
 
-El Realm cuenta con 4 Add-ons (mods) instalados para mejorar la experiencia de juego y, sobre todo, para ayudarte a proteger tu progreso. A continuación, tienes la guía detallada de cómo funciona cada uno.
+El Realm cuenta con 5 Add-ons (mods) instalados para mejorar la experiencia de juego y, sobre todo, para ayudarte a proteger tu progreso. A continuación, tienes la guía detallada de cómo funciona cada uno.
 
 ---
 
@@ -36,22 +35,33 @@ Desde aquí gestionas tus propiedades. Puedes configurar los permisos de tus ter
 
 #### Ítems clave para reclamar y proteger:
 
-* **Bandera Celeste (Claim Chunk):** Este ítem sirve para marcar y reclamar el chunk en el que estás parado.
+* **Bandera Celeste (Claim Chunk):** Sirve para marcar tus terrenos. Para reclamar el chunk en el que te encuentras, simplemente **haz clic con la bandera en la mano**.
+  
+  <Aside type="caution" title="¿Te aparece un error en rojo?">
+  Si el juego te muestra un mensaje de error en rojo en la pantalla y no te permite reclamar, suele deberse a tres razones principales:
+  1. **Ya está reclamado:** El chunk pertenece a otro jugador.
+  2. **Cerca del Spawn:** Estás demasiado cerca del inicio. Solo está permitido reclamar propiedades a una distancia mínima de **10 chunks del Spawn**.
+  3. **Sin chunks disponibles:** Te has quedado sin slots de reclamo libres. Puedes verificar cuántos chunks tienes disponibles para usar entrando al menú de la herramienta principal, en la sección de *Profile*.
+  </Aside>
+  
 <div style="display: flex; justify-content: center;">
   <img src={banderaCeleste.src} alt="Crafteo de la bandera celeste" style="max-width: 300px; width: 100%;" />
 </div>
 
-* **El Candado:** Sirve para bloquear de forma segura cofres, puertas y trampillas. Solo debes equipar el candado y hacer clic derecho (o interactuar) sobre lo que quieras proteger.
+* **El Candado:** Sirve para bloquear de forma segura tus pertenencias. Equipa el candado y haz clic derecho (o interactúa) sobre el objeto que quieras proteger. Sabrás que funcionó porque aparecerá un texto en verde que dice **"Locked"** (Bloqueado) o **"Unlocked"** (Desbloqueado) al quitarlo.
+  
+  <Aside type="tip" title="Uso en cofres dobles">
+  El candado **sí funciona en cofres dobles**, pero debes asegurarte de **aplicar el candado de forma individual a ambas partes del cofre**. Si solo bloqueas un lado, la otra mitad quedará desprotegida y podrán abrirlo para robarte.
+  </Aside>
+  
 <div style="display: flex; justify-content: center;">
   <img src={candado.src} alt="Crafteo del candado" style="max-width: 300px; width: 100%;" />
 </div>
 
-  <Aside type="danger" title="¡Atención con los cofres dobles!">
-  El candado **no funciona correctamente en cofres dobles**. Si bloqueas un cofre doble, solo se protegerá la mitad que tocaste; si alguien intenta abrirlo por el otro lado, podrá robarte. **Mantén tus cofres separados (cofres simples) si los vas a bloquear.**
-  </Aside>
-
-* **Cubo Celeste (Inspeccionar Chunk):** Te permite saber si un chunk ya tiene dueño y cuáles son sus límites exactos. 
-  * *Tip:* Para ver las líneas del límite del chunk, **haz clic derecho/interactúa mientras estás agachado (shift)** y mantente en esa posición.
+* **Cubo Celeste (Inspeccionar Chunk):** Te permite auditar el estado de los terrenos en tiempo real de dos formas diferentes:
+  1. **Información constante:** Si te equipas este ítem en la **mano izquierda (secundaria)**, la pantalla te mostrará en todo momento de quién es el chunk exacto sobre el que estás caminando.
+  2. **Ver bordes del chunk:** Si tienes el ítem en la mano y haces **clic derecho/interactúas mientras estás agachado (shift)**, activarás de forma permanente los límites visuales del chunk para saber con precisión hasta dónde abarca.
+  
 <div style="display: flex; justify-content: center;">
   <img src={cuboCeleste.src} alt="Crafteo del cubo celeste" style="max-width: 300px; width: 100%;" />
 </div>
@@ -87,22 +97,26 @@ Este popular mod mejora por completo las animaciones y las texturas de los perso
 
 ---
 
-## 3. Health Bar
+## 3. Better on Bedrock
 
-Un mod visual simple y directo hecho por los mismos creadores de *Actions and Stuff*. Añade una barra con corazones flotantes sobre la cabeza de todas las entidades (jugadores, vacas, monstruos, etc.) para que puedas ver en tiempo real cuánta vida les queda.
+Este es un mod masivo que expande por completo el juego base. Añade un sistema de misiones, mochilas para expandir tu inventario, nuevos jefes, estructuras gigantes, ítems únicos y armas potentes. Además, incluye su propio indicador visual que muestra la vida de los mobs directamente al mirarlos o golpearlos.
 
-<div style="display: flex; justify-content: center;">
-  <img src={barraDeVida.src} alt="Muestra de la barra de vida" style="max-width: 300px; width: 100%;" />
-</div>
+Como el contenido es gigantesco y se aprende mejor sobre la marcha mientras exploras, no detallaremos cada receta aquí. Sin embargo, tienes a tu disposición la documentación completa del creador.
+
+<Aside type="tip" title="Guía Completa de Better on Bedrock">
+Puedes consultar todos los crafteos, estructuras y mecánicas en su sitio oficial:
+* **[Wiki Oficial de Better on Bedrock (by Poggy)](https://poggy.org/Main/main.html)**
+* *Tip:* Si la página te aparece en inglés, puedes usar el traductor automático integrado de tu navegador para leerla cómodamente.
+</Aside>
 
 ---
 
-## 4. Better Structures
+## 4. Cakes & Bakes
 
-Este mod transforma por completo la exploración del Overworld, el Nether y el End. Genera estructuras y mazmorras mucho más grandes, detalladas y visualmente increíbles. Ten cuidado, ya que algunas de estas estructuras contienen nuevos enemigos temáticos y jefes con mecánicas personalizadas.
+Un Add-on enfocado en la cocina y la variedad alimentaria. Añade una gran cantidad de nuevas recetas de pastelería, tartas y repostería avanzada con efectos mecánicos o decorativos interesantes. Al igual que el mod anterior, las recetas son demasiadas para listarlas en texto, por lo que te recomendamos revisar el libro de recetas interactivo dentro del juego para descubrir las combinaciones culinarias disponibles.
 
-Al entrar por primera vez al Realm, **recibirás un libro en tu inventario** con todos los detalles de lo que añade este mod. 
+---
 
-<Aside type="caution" title="Idioma del Libro">
-El libro informativo del mod viene detallado **únicamente en inglés**. Si tienes dudas con alguna estructura o jefe, puedes apoyarte en un traductor o preguntar a los demás miembros en el grupo.
-</Aside>
+## 5. System Dynamic Light
+
+Este mod añade **luces dinámicas** en tiempo real para mejorar la inmersión y la exploración en cuevas oscuras. Su funcionamiento principal es directo: si tienes una antorcha (o cualquier bloque que emita luz nativa) equipada en la mano principal o secundaria, el entorno a tu alrededor se iluminará de forma dinámica mientras caminas, sin necesidad de colocar el bloque en el suelo.
